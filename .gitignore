@@ -1,5 +1,7 @@
 #Eviroment variables
 .env
+db.properties
+.vscode
 
 # Compiled class file
 *.class
