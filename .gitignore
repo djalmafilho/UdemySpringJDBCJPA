@@ -1,3 +1,6 @@
+#Eviroment variables
+.env
+
 # Compiled class file
 *.class
 
